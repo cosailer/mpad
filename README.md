@@ -43,6 +43,8 @@ the script **mpad.py** sends commands to mpad every 100ms, to control the backli
 **>> PCB**\
 the PCB is designed with KiCad 7.07. with the addition of an encoder, the PCB height size has grown over the 100mm. a small daughter board is attached to mount the gesture sensor and the encoder, the daughter board also has some extra room to mount other I2C sensors.
 
+<img src="./mpad/mpad-1.png" width="500">
+<img src="./mpad/mpad-2.png" width="500">
 <img src="./mpad/mpad-f.png" width="500">
 <img src="./mpad/mpad-b.png" width="500">
 
